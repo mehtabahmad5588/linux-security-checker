@@ -8,3 +8,6 @@ Professional, modular Linux security auditing and hardening automation tool writ
 ./linux-checker.sh --module ssh
 ./linux-checker.sh --report html
 ```
+=======
+# linux-security-checker
+

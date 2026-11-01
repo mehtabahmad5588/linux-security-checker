@@ -1,0 +1,14 @@
+# Generated reports
+reports/*.html
+
+# ZIP archives
+*.zip
+
+# Sensitive files
+.env
+*.key
+*.pem
+
+# Temporary files
+*.log
+*.tmp
